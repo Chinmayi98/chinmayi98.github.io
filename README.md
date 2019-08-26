@@ -2,6 +2,7 @@
 
 ![](https://miro.medium.com/max/848/1*M9le42saJxWlOYyYvhKtPA.jpeg)
 
+[Machine Learning](https://images.app.goo.gl/6E9vryrkCv9maBV69)
 
 ## DEFINITION
 Machine Learning is a branch of Artificial Intelligence
@@ -15,6 +16,8 @@ Algorithms in Machine learning are broadly classified into three types
 
 
 ![](https://miro.medium.com/max/2796/0*QYxNNYh6W9jO1b_-.png)
+
+[Algorithms](https://images.app.goo.gl/FMTQ749ntEXWqaZC8)
 
 
 ## 1) Supervised Learning
