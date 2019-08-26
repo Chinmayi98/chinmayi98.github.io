@@ -52,10 +52,10 @@ Some of the applications of ML include
 ## References
 You can learn more about Machine Learning at
 
-1) (https://www.sas.com/en_us/insights/analytics/machine-learning.html)
+1) [Machine Learning tutorial](https://www.sas.com/en_us/insights/analytics/machine-learning.html)
 
-2) (https://en.wikipedia.org/wiki/Machine_learning) 
+2) [Wiki](https://en.wikipedia.org/wiki/Machine_learning) 
 
 Here is the link to my LinkedIn profile
 
-3) (https://www.linkedin.com/in/chinmayi-a-297a43a1/)
+3) [Linkedin](https://www.linkedin.com/in/chinmayi-a-297a43a1/)
